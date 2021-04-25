@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a60828a-49a4-4b4b-aac9-d1c74d9d3b61" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Documents/Courses/WebLinqWithDataBase/LinqServerWithDB/WebAPILinq/WebAPILinq/DAL/UnitOfWork/Repositories/UserRepository.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/SergoChatContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/Courses/WebLinqWithDataBase/LinqServerWithDB/WebAPILinq/WebAPILinq/Startup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C072ADA3-420F-4E08-8493-043C3240EB59/F3/ActionMethodExecutor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SergoChat/Controllers/UserController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SergoChat/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Models/IEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SergoChat/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/ModelConfigurations/UserConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SergoChat/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SergoChat/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BLL/Class1.cs" />
+        <option value="$PROJECT_DIR$/DAL/Class1.cs" />
+        <option value="$PROJECT_DIR$/DAL/Models/IEntity.cs" />
+        <option value="$PROJECT_DIR$/DAL/Models/User.cs" />
+        <option value="$PROJECT_DIR$/DAL/ModelConfigurations/UserConfiguration.cs" />
+        <option value="$PROJECT_DIR$/DAL/SergoChatContext.cs" />
+        <option value="$PROJECT_DIR$/SergoChat/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/SergoChat/appsettings.json" />
+        <option value="$PROJECT_DIR$/SergoChat/Controllers/UserController.cs" />
+        <option value="$PROJECT_DIR$/SergoChat/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rc6nTuVOf5oxgW0JbeTXTl3Egf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3496708" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29992685" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SergoChat" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SergoChat/SergoChat.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a60828a-49a4-4b4b-aac9-d1c74d9d3b61" name="Default Changelist" comment="" />
+      <created>1619263200048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619263200048</updated>
+      <workItem from="1619263223442" duration="535000" />
+      <workItem from="1619263828082" duration="3609000" />
+      <workItem from="1619267922354" duration="5904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1619299023700">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619277868320" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1619299023700" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1619277106627" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1619299023698">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619277868319" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1619299023698" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1619277106612" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1619299023697">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619277868318" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1619299023697" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1619277106611" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1619299023699">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619277868320" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1619299023699" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1619277106621" />
+    <state width="1398" height="331" key="GridCell.Tab.1.bottom" timestamp="1619299018154">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619277830489" />
+    <state width="1398" height="331" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1619299018154" />
+    <state width="1398" height="331" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1619277021321" />
+    <state width="1398" height="331" key="GridCell.Tab.1.center" timestamp="1619299018148">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1619277830488" />
+    <state width="1398" height="331" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1619299018148" />
+    <state width="1398" height="331" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1619277021276" />
+    <state width="1398" height="331" key="GridCell.Tab.1.left" timestamp="1619299018145">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1619277830486" />
+    <state width="1398" height="331" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1619299018145" />
+    <state width="1398" height="331" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1619277021273" />
+    <state width="1398" height="331" key="GridCell.Tab.1.right" timestamp="1619299018150">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1619277830489" />
+    <state width="1398" height="331" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1619299018150" />
+    <state width="1398" height="331" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1619277021317" />
+    <state width="1398" height="331" key="GridCell.Tab.2.bottom" timestamp="1619299018162">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619277830494" />
+    <state width="1398" height="331" key="GridCell.Tab.2.bottom/0.23.1440.816@0.23.1440.816" timestamp="1619299018162" />
+    <state width="1398" height="331" key="GridCell.Tab.2.center" timestamp="1619299018159">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1619277830491" />
+    <state width="1398" height="331" key="GridCell.Tab.2.center/0.23.1440.816@0.23.1440.816" timestamp="1619299018159" />
+    <state width="1398" height="331" key="GridCell.Tab.2.left" timestamp="1619299018156">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1619277830490" />
+    <state width="1398" height="331" key="GridCell.Tab.2.left/0.23.1440.816@0.23.1440.816" timestamp="1619299018156" />
+    <state width="1398" height="331" key="GridCell.Tab.2.right" timestamp="1619299018160">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1619277830493" />
+    <state width="1398" height="331" key="GridCell.Tab.2.right/0.23.1440.816@0.23.1440.816" timestamp="1619299018160" />
+    <state width="1398" height="331" key="GridCell.Tab.3.bottom" timestamp="1619299018172">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619277830497" />
+    <state width="1398" height="331" key="GridCell.Tab.3.bottom/0.23.1440.816@0.23.1440.816" timestamp="1619299018172" />
+    <state width="1398" height="331" key="GridCell.Tab.3.center" timestamp="1619299018166">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1619277830495" />
+    <state width="1398" height="331" key="GridCell.Tab.3.center/0.23.1440.816@0.23.1440.816" timestamp="1619299018166" />
+    <state width="1398" height="331" key="GridCell.Tab.3.left" timestamp="1619299018165">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1619277830494" />
+    <state width="1398" height="331" key="GridCell.Tab.3.left/0.23.1440.816@0.23.1440.816" timestamp="1619299018165" />
+    <state width="1398" height="331" key="GridCell.Tab.3.right" timestamp="1619299018170">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1619277830496" />
+    <state width="1398" height="331" key="GridCell.Tab.3.right/0.23.1440.816@0.23.1440.816" timestamp="1619299018170" />
+    <state width="1398" height="331" key="GridCell.Tab.4.bottom" timestamp="1619299018179">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.4.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619277830499" />
+    <state width="1398" height="331" key="GridCell.Tab.4.bottom/0.23.1440.816@0.23.1440.816" timestamp="1619299018179" />
+    <state width="1398" height="331" key="GridCell.Tab.4.center" timestamp="1619299018175">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.4.center/0.0.1440.900@0.0.1440.900" timestamp="1619277830498" />
+    <state width="1398" height="331" key="GridCell.Tab.4.center/0.23.1440.816@0.23.1440.816" timestamp="1619299018175" />
+    <state width="1398" height="331" key="GridCell.Tab.4.left" timestamp="1619299018174">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.4.left/0.0.1440.900@0.0.1440.900" timestamp="1619277830497" />
+    <state width="1398" height="331" key="GridCell.Tab.4.left/0.23.1440.816@0.23.1440.816" timestamp="1619299018174" />
+    <state width="1398" height="331" key="GridCell.Tab.4.right" timestamp="1619299018177">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.4.right/0.0.1440.900@0.0.1440.900" timestamp="1619277830499" />
+    <state width="1398" height="331" key="GridCell.Tab.4.right/0.23.1440.816@0.23.1440.816" timestamp="1619299018177" />
+    <state x="320" y="160" key="Rider.ProjectTemplateDialog.Size" timestamp="1619264633176">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="160" key="Rider.ProjectTemplateDialog.Size/0.0.1440.900@0.0.1440.900" timestamp="1619264633176" />
+    <state x="320" y="168" key="Rider.ProjectTemplateDialog.Size/0.23.1440.814@0.23.1440.814" timestamp="1619263424070" />
+    <state x="384" y="111" width="672" height="676" key="search.everywhere.popup" timestamp="1619266710049">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="384" y="111" width="672" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1619266710049" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SergoChat/Controllers/UserController.cs</url>
+          <line>34</line>
+          <properties documentPath="$PROJECT_DIR$/SergoChat/Controllers/UserController.cs" initialLine="32">
+            <startOffsets>
+              <option value="878" />
+            </startOffsets>
+            <endOffsets>
+              <option value="879" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SergoChat/Controllers/UserController.cs</url>
+          <line>22</line>
+          <properties documentPath="$PROJECT_DIR$/SergoChat/Controllers/UserController.cs" initialLine="22">
+            <startOffsets>
+              <option value="546" />
+            </startOffsets>
+            <endOffsets>
+              <option value="563" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
